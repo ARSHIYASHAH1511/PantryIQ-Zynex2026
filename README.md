@@ -24,17 +24,12 @@ PantryIQ uses ESP32 + Load Cell to automatically track pantry weight in real-tim
 - ₹20,000/year savings per household
 - Scalable to 300M+ Indian homes
 
-## 🚀 Team
-[Your Name] - Hardware & Firmware
-[Team Member 2] - Frontend
-[Team Member 3] - Backend
+## 🚀 Team COBWEB
+[S ARSHIYA SHAH] -Frontend
+[SAKSHAM KHANAL] - Deployment
+[SUNIL TAMANG] -Hardware & Firmware
+[AAYUSH BHANDARI] - Backend
 
-## 📅 Timeline
-Day 1: GitHub + PPT + Diagram
-Day 2: Hardware Setup + Code Upload
-Day 3: Firebase + Dashboard
-Day 4: Demo Video + Submit
 
----
 **Submission Date:** May 12, 2026
 
