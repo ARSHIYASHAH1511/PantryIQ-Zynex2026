@@ -1,5 +1,5 @@
 # PantryIQ - Real-Time Pantry Inventory Tracking
-## 🔗 Live Demo: [CLICK HERE TO VIEW](https://arshiyashah1511.github.io/PantryIQ-Zynex2026/)
+## 🔗 Live Demo: [CLICK HERE TO VIEW](file:///C:/Users/arshi/steganography_project/dashboard.html)
 
 
 ## 🎯 Problem Statement
