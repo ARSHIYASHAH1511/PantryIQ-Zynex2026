@@ -31,5 +31,5 @@ PantryIQ uses ESP32 + Load Cell to automatically track pantry weight in real-tim
 [AAYUSH BHANDARI] - Backend
 
 
-**Submission Date:** May 12, 2026
+
 
