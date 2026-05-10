@@ -1,4 +1,6 @@
 # PantryIQ - Real-Time Pantry Inventory Tracking
+## 🔗 Live Demo: [CLICK HERE TO VIEW](https://arshiyashah1511.github.io/PantryIQ-Zynex2026/)
+
 
 ## 🎯 Problem Statement
 Households waste ₹50,000/year due to food spoilage. No real-time visibility into pantry inventory.
